@@ -2,7 +2,7 @@
 
 Do you ever forget things? I do. This is a small utility to help you remember things for later.
 
-# Usage
+## Usage
 
 Simply type the thing that you would like to remember after the name of the command.
 
@@ -14,4 +14,10 @@ To recall the thing that has been remembered, simply type remember with no argum
 
 ```
 remember // => pick up groceries
+```
+
+## Installation
+```
+make
+sudo make install
 ```
