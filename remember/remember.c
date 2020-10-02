@@ -7,6 +7,8 @@
 // TODO decide if the bottom two should be flags or keyword args
 // TODO implement remember pop (displays last item but also removes it
 // TODO implement remember help (displays help text)
+// TODO implement display all
+// TODO implement clear history
 
 char* get_dir_path();
 char* get_file_path(char* dir_path, char* file_name);
