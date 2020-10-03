@@ -1,7 +1,7 @@
 # hacktoberfest
 
 ## 2020
-- Reorganized directories and files`
+- Reorganized directories and files
 
 ## 2019
 2019 Commit number one
