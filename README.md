@@ -1,6 +1,7 @@
 # hacktoberfest
 
 ## 2020
+- Added fizzbuzz
 - Reorganized directories and files
 
 ## 2019
